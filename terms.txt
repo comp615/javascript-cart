@@ -4,6 +4,8 @@ Angular
 API
 Babel
 BEM
+braces
+bracket
 Browserify
 Chai
 Chakra
@@ -13,21 +15,25 @@ committer
 composable
 Cypress
 debounce
+Chrome
 CORS
 CSS
 Curry
 Currying
 DOM
 deserialize
+ECMA
 ECMAScript
 Electron
 Elm
 ESLint
 falsy
+Firefox
 Flux
 FTP
 Git
 GitHub
+Google
 GraphQL
 Grunt
 Gulp
@@ -45,9 +51,11 @@ JSX
 keyframe
 Lodash
 microservice
+Microsoft
 ML
 MobX
 Mocha
+Mozilla
 MySQL
 Node
 Node.js
@@ -55,6 +63,7 @@ NoSQL
 npm
 npx
 nvm
+open source
 pageable
 Phantom.js
 Phantom
@@ -74,7 +83,9 @@ serialize
 serverless
 snackbar
 SpiderMonkey
+ServiceWorker
 TCP
+transpile
 truthy
 TSLint
 TypeScript
@@ -83,8 +94,10 @@ UX
 V8
 VDOM
 Virtual DOM
+VS Code
 Vue
 Vue.js
+W3C
 WASM
 WebGL
 webhook
